@@ -54,7 +54,7 @@ good
 great
 
 ### attempt 14 
-1 lb ground beef
+* 1 lb ground beef
 * 1 med onion
 * 1/3 cup dry black beans
 * 1/3 cup dry kidney beans
