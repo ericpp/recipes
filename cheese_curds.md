@@ -46,19 +46,19 @@ Directions
 | less crispy, better flavor | D | B | D | 1 | 3 | | | 380 | 1 | Ellsworth | bisque | 0.5 | yes | yes | 1 | 0.5 | 0 | 0 | 0.25 | 2019-06-11
 | too puffy, undercooked, corn meal texture | C | F | | 0 | | | | | 2 | Ellsworth | dough | 0.5 | 0.125 | 0 | 0.5 | 1 | 0.5 | 0.25 | 0 | 2019-06-11
 | Minimal explosions, less puffy, strong beer taste, curds cooked, corn meal texture, not crispy enough | D | C | | 1 | 3 | | | | 2 | Ellsworth | pancake | 0.5 | 0.25 | 0 | 0.5 | 1 | 0.5 | 0.25 | 0 | 2019-06-11
-| slightly crispy | C | C | B | 0 | 3 | 1 | | 360 | gold | Ellsworth | bisque | 0.5 | 0.5 | 0.25 | 0.5 | 1 | 0 | 0 | 0 | | 2019-06-12
-| mushy | D | B | B | 1 | 3 | 1 | | 360 | 3 | North | bisque | 0.5 | 0.5 | 0.25 | 0.5 | 1 | 0 | 0 | 0 | | 2019-06-12
-| slightly crispy | D | C | A | 1 | 3 | 1 | 400 | 350 | 3 | North | bisque | 0.5 | 0.5 | 0.25 | 0.5 | 1 | 0.5 | 0 | 0 | | 2019-06-12
-| too dark, crispy | B | D | B | 2 | 3 | 1 | 400 | 350 | 3 | Door | bisque | 0.5 | 0.5 | 0.25 | 0.5 | 1 | 1 | 0 | 0 | | 2019-06-12
-| perfect color, mushy | D | C | A | 0 | 3 | 1 | 400 | 360 | 2 | North | bisque | 0.5 | 0.5 | 0.25 | 0.5 | 1 | 1 | 0 | 0 | | 2019-06-12
-| slightly crispy, corn meal seeds | C | B | A | 0 | 3 | 1 | 400 | 365 | 2 | Ellsworth | bisque | 0.5 | 0.5 | 0.25 | 0.5 | 1 | 1 | 0.25 | 0 | | 2019-06-12
-| lumpy, dark | A | B | C | 0 | 3 | 1 | 390 | | 2 | North | dredge | 0.5 | 0.5 | 0.5 | 0.5 | 0 | 0.5 | 0 | 0 | | 2019-06-12
-| less crispy | B | C | B | 2 | 6 | 1 | 390 | 360 | 1.5 | North | dredge | 0.5 | 0.5 | 0.5 | 0.5 | 0 | 0.5 | 0 | 0 | | 2019-06-12
-| corn meal, puffy | C | D | A | 1 | 4 | 1 | 388 | | 2 | North | dredge + batter | 0.5 | 0.5 | 0.25 | 0.5 | 1 | 1 | 0.25 | 0 | | 2019-06-12
-| crispy and tasteless | A | F | A | 0 | 4 | 1 | 380 | | 2 | North | cake | 0.5 | 0.75 | 0 | 0.5 | 0 | 0.75 | 0 | 0 | | 2019-06-12
-| too dark | B | C | B | 0 | 6 | | 400 | 350 | 2 | North | bisque | 0.5 | 1 | 0 | 0.5 | 0 | 0.75 | 0 | 0 | | 2019-06-12
-| too dark, crispy | B | B | B | 0 | 4 | 1 | 400 | 380 | 2 | North | bisque | 0.5 | 1 | 0 | 0.5 | 1 | 0.75 | 0 | 0 | | 2019-06-12
-| good texture, more salt or better curd | A | B | A | 0 | 4 | 1 | 380 | 338 | 1.5 | North | soupy | 0.5 | 1 | 0 | 0.5 | 1 | 0.75 | 0 | 0 | | 2019-06-12
+| slightly crispy | C | C | B | 0 | 3 | 1 | | 360 | gold | Ellsworth | bisque | 0.5 | 0.5 | 0.25 | 0.5 | 1 | 0 | 0 | 0 | 2019-06-12
+| mushy | D | B | B | 1 | 3 | 1 | | 360 | 3 | North | bisque | 0.5 | 0.5 | 0.25 | 0.5 | 1 | 0 | 0 | 0 | 2019-06-12
+| slightly crispy | D | C | A | 1 | 3 | 1 | 400 | 350 | 3 | North | bisque | 0.5 | 0.5 | 0.25 | 0.5 | 1 | 0.5 | 0 | 0 | 2019-06-12
+| too dark, crispy | B | D | B | 2 | 3 | 1 | 400 | 350 | 3 | Door | bisque | 0.5 | 0.5 | 0.25 | 0.5 | 1 | 1 | 0 | 0 | 2019-06-12
+| perfect color, mushy | D | C | A | 0 | 3 | 1 | 400 | 360 | 2 | North | bisque | 0.5 | 0.5 | 0.25 | 0.5 | 1 | 1 | 0 | 0 | 2019-06-12
+| slightly crispy, corn meal seeds | C | B | A | 0 | 3 | 1 | 400 | 365 | 2 | Ellsworth | bisque | 0.5 | 0.5 | 0.25 | 0.5 | 1 | 1 | 0.25 | 0 | 2019-06-12
+| lumpy, dark | A | B | C | 0 | 3 | 1 | 390 | | 2 | North | dredge | 0.5 | 0.5 | 0.5 | 0.5 | 0 | 0.5 | 0 | 0 | 2019-06-12
+| less crispy | B | C | B | 2 | 6 | 1 | 390 | 360 | 1.5 | North | dredge | 0.5 | 0.5 | 0.5 | 0.5 | 0 | 0.5 | 0 | 0 | 2019-06-12
+| corn meal, puffy | C | D | A | 1 | 4 | 1 | 388 | | 2 | North | dredge + batter | 0.5 | 0.5 | 0.25 | 0.5 | 1 | 1 | 0.25 | 0 | 2019-06-12
+| crispy and tasteless | A | F | A | 0 | 4 | 1 | 380 | | 2 | North | cake | 0.5 | 0.75 | 0 | 0.5 | 0 | 0.75 | 0 | 0 | 2019-06-12
+| too dark | B | C | B | 0 | 6 | | 400 | 350 | 2 | North | bisque | 0.5 | 1 | 0 | 0.5 | 0 | 0.75 | 0 | 0 | 2019-06-12
+| too dark, crispy | B | B | B | 0 | 4 | 1 | 400 | 380 | 2 | North | bisque | 0.5 | 1 | 0 | 0.5 | 1 | 0.75 | 0 | 0 | 2019-06-12
+| good texture, more salt or better curd | A | B | A | 0 | 4 | 1 | 380 | 338 | 1.5 | North | soupy | 0.5 | 1 | 0 | 0.5 | 1 | 0.75 | 0 | 0 | 2019-06-12
 | good texture, tad more salt? | A | A- | A | 1 | 4 | 1 | 390 | | 1.5 | Ellsworth | soupy | 0.5 | 1.5 | 0 | 0.5 | 1 | 0.75 | 0 | 0 | 2019-06-13
 | too flaky, too much salt? | A | B | B | 2 | 5 | 1 | 400 | 350 | 1.5 | Ellsworth | soupy | 0.5 | 1.5 | 0 | 1 | 1 | 0.75 | 0 | 0 | 2019-06-13
 | salty | A | A | A | 0 | 5 | 1 | 400 | 350 | 1.5 | North | foamy? | 0.75 | 1.5 | 0 | 1 | 1 | 0.75 | 0 | 0 | 2019-06-13
