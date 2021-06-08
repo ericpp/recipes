@@ -19,7 +19,7 @@ My chili recipe that uses whole dried chilis rather than chili powder.
 * 6 ancho (2 pressure cooked) (roasted/deseeded)
 * 2 california (roasted/deseeded)
 * 2 arbol (roasted/deseeded)
-* * ¾ bell pepper
+* ¾ bell pepper
 
 Okay with some salt added
 
