@@ -13,6 +13,18 @@ They've since switched to the larger Ellsworth curds which don't seem to work as
 
 My current attempts are to try to adapt the recipe to the larger Ellsworth curds that are available all over Minnesota.
 
+### Tested curds
+
+* [North Country Cheese](https://www.northcountrycheese.com/) (Hudson)
+* [Door County Cheese Curds](https://www.instacart.com/products/2797258-door-county-cheese-curd-mixed-cheddar-12-oz) (Cub)
+* [Ellsworth Dairy Cooperative](https://www.ellsworthcheese.com/products/cheese-curds/) (Cub)
+* [Westby Cooperative Creamery](https://www.westbycreamery.com/) (Kwik Trip)
+* [Redhead Creamery](https://www.redheadcreamery.com/) (Eastside Coop)
+
+### Untested curds
+
+* [Burnett Dairy](https://www.burnettdairy.com/) (Burnett Dairy)
+
 ## Current version
 
 Recipe
