@@ -12,9 +12,9 @@ A recipe for fish batter for coating and frying fish fillets. I'm going for a si
 
 * 1/3 cup bread flour
 * 1/2 tsp sugar
-* 1/2 tsp baking powder
+* 3/4 tsp baking powder
 * 8 tsp [Poultry Magic copy](https://topsecretrecipes.com/chef-paul-prudhommes-poultry-magic-copycat-recipe.html)
-  * 2 1/2 tsp celery salt and table salt
+  * 3 tsp celery salt and table salt
   * 1 tsp paprika
   * 1/2 tsp ground cayenne pepper
   * 1/2 tsp onion powder
