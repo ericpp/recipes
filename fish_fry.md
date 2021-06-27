@@ -10,20 +10,23 @@ A recipe for fish batter for coating and frying fish fillets. I'm going for a si
 
 ### Cajun Side Attempt
 
+Good crust
+Good flavor
+Too salty
+
 * 1/3 cup bread flour
 * 1/2 tsp sugar
-* 3/4 tsp baking powder
-* 8 tsp [Poultry Magic copy](https://topsecretrecipes.com/chef-paul-prudhommes-poultry-magic-copycat-recipe.html)
-  * 3 tsp celery salt and table salt
-  * 1 tsp paprika
-  * 1/2 tsp ground cayenne pepper
-  * 1/2 tsp onion powder
-  * 1/2 tsp garlic powder
-  * 1/2 tsp ground black pepper
-  * 1/2 tsp dried thyme
-  * 1/2 tsp dried oregano
-  * 1/2 tsp rubbed sage
-  * 1/4 tsp cumin
+* 1 tsp baking powder
+* 12 tsp [Poultry Magic copy](https://topsecretrecipes.com/chef-paul-prudhommes-poultry-magic-copycat-recipe.html)
+  * 4 1/2 tsp celery salt and table salt
+  * 1 1/2 tsp paprika
+  * 3/4 tsp ground cayenne pepper
+  * 3/4 tsp onion powder
+  * 3/4 tsp garlic powder
+  * 3/4 tsp ground black pepper
+  * 3/4 tsp dried thyme
+  * 3/4 tsp dried oregano
+  * 3/4 tsp rubbed sage
 * Drizzle of water to create lumps
 
 ### Attempt 11.5
