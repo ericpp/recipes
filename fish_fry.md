@@ -1,12 +1,30 @@
 # Fish batter recipe
 
-Quality: Beta
+Quality: 3/5
 
 ## Description
 
 A recipe for fish batter for coating and frying fish fillets. I'm going for a similar texture to Shore Lunch with some flavor.
 
 ## Attempts
+
+### Cajun Side Attempt
+
+* 1/3 cup bread flour
+* 1/2 tsp sugar
+* 1/2 tsp baking powder
+* 8 tsp [Poultry Magic copy](https://topsecretrecipes.com/chef-paul-prudhommes-poultry-magic-copycat-recipe.html)
+  * 2 1/2 tsp celery salt and table salt
+  * 1 tsp paprika
+  * 1/2 tsp ground cayenne pepper
+  * 1/2 tsp onion powder
+  * 1/2 tsp garlic powder
+  * 1/2 tsp ground black pepper
+  * 1/2 tsp dried thyme
+  * 1/2 tsp dried oregano
+  * 1/2 tsp rubbed sage
+  * 1/4 tsp cumin
+* Drizzle of water to create lumps
 
 ### Attempt 11.5
 
