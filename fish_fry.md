@@ -13,6 +13,7 @@ A recipe for fish batter for coating and frying fish fillets. I'm going for a si
 Good crust
 Good flavor
 Too salty
+Needs more cayenne
 
 * 1/3 cup bread flour
 * 1/2 tsp sugar
