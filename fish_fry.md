@@ -10,7 +10,7 @@ A recipe for fish batter for coating and frying fish fillets. I'm going for a si
 
 ### Cajun Side Attempt 2
 
-Good crust, good flavor, nice spice
+Good thinner crust, good flavor, nice spice
 
 * 1/6 cup bread flour
 * 1/2 tbsp cornstarch
