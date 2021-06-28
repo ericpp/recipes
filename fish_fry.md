@@ -13,6 +13,7 @@ A recipe for fish batter for coating and frying fish fillets. I'm going for a si
 Good crust, good flavor, nice spice
 
 * 1/6 cup bread flour
+* 1/2 tbsp cornstarch
 * 1/2 tsp sugar
 * 1/2 tsp baking powder
 * 1/2 tsp cayenne
