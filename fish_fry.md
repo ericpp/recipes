@@ -8,9 +8,19 @@ A recipe for fish batter for coating and frying fish fillets. I'm going for a si
 
 ## Attempts
 
-Too much corn flour taste, need tsp more seasoning or lower salt, good crust
+### Cajun Side Attempt 4
+
+Good crust, cornmeal not really needed, can't taste seasoning
+
+* 2 1/2 tbsp (1/6 cup) bread flour
+* 1/2 tbsp corn meal
+* 1/2 tsp sugar
+* 1/2 tsp baking powder
+* 4 1/2 tsp of [Redfish Magic copy](https://cooking.nytimes.com/recipes/11612-paul-prudhommes-blackened-redfish)
 
 ### Cajun Side Attempt 3
+
+Too much corn flour taste, need tsp more seasoning or lower salt, good crust
 
 * 1/6 cup bread flour
 * 1/2 tbsp masa corn flour
