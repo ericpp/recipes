@@ -8,7 +8,7 @@ A recipe for fish batter for coating and frying fish fillets. I'm going for a si
 
 ## Attempts
 
-### Cajun Side Attempt 4
+### Attempt 15 (Cajun)
 
 Good crust, cornmeal not really needed, can't taste seasoning
 
@@ -18,7 +18,7 @@ Good crust, cornmeal not really needed, can't taste seasoning
 * 1/2 tsp baking powder
 * 4 1/2 tsp of [Redfish Magic copy](https://cooking.nytimes.com/recipes/11612-paul-prudhommes-blackened-redfish)
 
-### Cajun Side Attempt 3
+### Attempt 14 (Cajun)
 
 Too much corn flour taste, need tsp more seasoning or lower salt, good crust
 
@@ -35,7 +35,7 @@ Too much corn flour taste, need tsp more seasoning or lower salt, good crust
   * 1/2 teaspoon dried thyme
   * 1/2 teaspoon dried oregano
 
-### Cajun Side Attempt 2
+### Attempt 13 (Cajun)
 
 Good thinner crust, good flavor, nice spice
 
@@ -46,7 +46,7 @@ Good thinner crust, good flavor, nice spice
 * 1/2 tsp cayenne
 * 4 tsp [Poultry Magic copy](https://topsecretrecipes.com/chef-paul-prudhommes-poultry-magic-copycat-recipe.html)
 
-### Cajun Side Attempt
+### Attempt 12 (Cajun)
 
 Good crust
 Good flavor
