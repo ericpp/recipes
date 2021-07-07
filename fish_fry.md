@@ -16,7 +16,6 @@ Too much corn flour taste, need tsp more seasoning or lower salt, good crust
 * 1/2 tbsp masa corn flour
 * 1/2 tsp sugar
 * 1/2 tsp baking powder
-* 1/2 tsp cayenne
 * 4 tsp of [Redfish Magic copy](https://cooking.nytimes.com/recipes/11612-paul-prudhommes-blackened-redfish)
   * 1 tablespoon paprika
   * 2 1/2 teaspoons kosher salt
