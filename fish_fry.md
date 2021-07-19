@@ -8,6 +8,23 @@ A recipe for fish batter for coating and frying fish fillets. I'm going for a si
 
 ## Attempts
 
+### Attempt 16
+
+Good crust but flour taste, good msg, light salt, minimal flavor
+
+* 2 1/2 tbsp (1/6 cup) bread flour
+* 1/2 tbsp cornstarch
+* 1/2 tsp sugar
+* 1/2 tsp baking powder
+* 4 tsp ground seasoning:
+  * 2 tsp ground kosher salt
+  * 1 tsp garlic powder
+  * 1 tsp cayenne
+  * 1/2 tsp onion powder
+  * 1/2 tsp paprika
+  * 1/2 tsp msg
+  * 1/4 tsp dill
+
 ### Attempt 15 (Cajun)
 
 Good crust, cornmeal not really needed, can't taste seasoning
