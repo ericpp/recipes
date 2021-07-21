@@ -8,6 +8,24 @@ A recipe for fish batter for coating and frying fish fillets. I'm going for a si
 
 ## Attempts
 
+### Attempt 17
+
+Good crust, slight flour taste on first fillets (higher heat/deep fry fixed it?), good amount of salt and flavor, bump herbs to 1/2?
+
+* 2 1/2 tbsp bread flour
+* 1 tbsp cornstarch
+* 1/2 tsp sugar
+* 1/2 tsp baking powder
+* 5 tsp of ground modified [Redfish Magic copy](https://cooking.nytimes.com/recipes/11612-paul-prudhommes-blackened-redfish)
+  * 1/2 tablespoon paprika
+  * 1 1/4 teaspoons kosher salt
+  * 1 teaspoon ground cayenne
+  * 1/2 teaspoon onion powder
+  * 1/2 teaspoon garlic powder
+  * 1/4 teaspoon dried thyme
+  * 1/4 teaspoon dried oregano
+* light drops of water in mix
+
 ### Attempt 16
 
 Good crust but flour taste, good msg, light salt, minimal flavor
